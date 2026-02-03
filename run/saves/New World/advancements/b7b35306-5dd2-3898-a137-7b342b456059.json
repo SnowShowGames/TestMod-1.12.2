@@ -1,0 +1,14 @@
+{
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2026-02-03 00:40:50 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2026-02-03 00:40:38 +0300"
+    },
+    "done": false
+  }
+}
