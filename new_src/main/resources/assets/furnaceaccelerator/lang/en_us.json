@@ -1,0 +1,18 @@
+{
+    "item.furnaceaccelerator.furnace_accelerator": "Furnace Accelerator",
+    "tooltip.furnaceaccelerator.main": "§aAccelerates furnaces x2",
+    "tooltip.furnaceaccelerator.usage": "§6Shift + Right Click§7 on furnace",
+    "tooltip.furnaceaccelerator.durability": "§9Durability: §f%s§7/§f%s",
+    "tooltip.furnaceaccelerator.details": "§eDetails:",
+    "tooltip.furnaceaccelerator.detail1": "§7• Accelerates cooking speed",
+    "tooltip.furnaceaccelerator.detail2": "§7• Accelerates fuel burn rate",
+    "tooltip.furnaceaccelerator.detail3": "§7• Works until furnace breaks",
+    "tooltip.furnaceaccelerator.detail4": "§7• Consumes durability on use",
+    "tooltip.furnaceaccelerator.shift": "§8Hold §eSHIFT§8 for details",
+    
+    "message.furnaceaccelerator.success": "§aSuccess! §fFurnace accelerated x2",
+    "message.furnaceaccelerator.already": "§cThis furnace is already accelerated!",
+    "message.furnaceaccelerator.not_furnace": "§cThis is not a furnace!",
+    "message.furnaceaccelerator.need_shift": "§eHold §6SHIFT §e+ Right Click to accelerate furnace",
+    "message.furnaceaccelerator.destroyed": "§6Accelerated furnace destroyed!"
+}

@@ -1,0 +1,8 @@
+{
+    "item.furnaceaccelerator.furnace_accelerator": "Furnace Accelerator",
+    "tooltip.furnaceaccelerator.line1": "Accelerates furnaces x2",
+    "tooltip.furnaceaccelerator.line2": "Right-click on furnace to apply",
+    "tooltip.furnaceaccelerator.durability": "Durability: %s/%s",
+    "message.furnaceaccelerator.accelerated": "Furnace accelerated!",
+    "message.furnaceaccelerator.already_accelerated": "This furnace is already accelerated"
+}
